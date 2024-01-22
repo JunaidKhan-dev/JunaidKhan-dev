@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## “Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity.” - Hans Hofmann
+### “Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity.” - Hans Hofmann
 
 </div
 
