@@ -13,4 +13,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=junaidkhan-dev&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidkhan-dev&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 🐍 My Contributions:
+<div align="center">
+  <h2> 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/junaidkhan-dev/junaidkhan-dev/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 
