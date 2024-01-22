@@ -3,6 +3,12 @@
 🧑‍💻 I have around 5 years of experience as a JavaScript/ TypeScript FullStack Developer. <br>
 🎮 Immersed in the allure of sci-fi films, I find solace in melodies, adventure in gaming, and delight in the spectacle of cricket.
 
+<div align="center">
+
+## “Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity.” - Hans Hofmann
+
+</div
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junaidkhandetails) 
