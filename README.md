@@ -1,5 +1,7 @@
-# 👨‍💻 About Me:
-Hi, I'm Junaid Khan 👋<br><br>🪄 Highly passionate JavaScript Developer with an eager to learn cutting edge web technologies. <br>🎓 Educated to degree level at the University of Preston in Information Technology. <br>🧑‍💻 I have around 5 years of experience as a JavaScript/ TypeScript FullStack Developer. <br>🎮 Immersed in the allure of sci-fi films, I find solace in melodies, adventure in gaming, and delight in the spectacle of cricket.
+# 👨‍💻 Hi, I'm Junaid Khan 👋<br><br>
+🪄 Highly passionate JavaScript Developer with an eager to learn cutting edge web technologies. <br>🎓 Educated to degree level at the University of Preston in Information Technology. <br>
+🧑‍💻 I have around 5 years of experience as a JavaScript/ TypeScript FullStack Developer. <br>
+🎮 Immersed in the allure of sci-fi films, I find solace in melodies, adventure in gaming, and delight in the spectacle of cricket.
 
 
 ## 🌐 Socials:
