@@ -6,7 +6,8 @@
 #### 💡“Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity.” <br/> - Hans Hofmann
 
 ## 🌐 git-wrapped 2024:
-![](https://photos.app.goo.gl/oxbstXWS3BZWrVix9))
+![image](https://github.com/user-attachments/assets/87bb94cd-4c62-4e46-bfd0-11cd4aee57ce)
+
 
 
 ## 🌐 Socials:
